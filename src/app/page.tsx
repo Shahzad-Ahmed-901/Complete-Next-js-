@@ -1,11 +1,11 @@
+import React from 'react'
 
+function First_comment() {
+  return (
+    <div>
+      <p>Hello World</p>
+    </div>
+  )
+}
 
-import React from "react";
-
-const Print = ()=>{
-    return(
- 
-        <h1>Hello World</h1>
-    )
-};
-
+export default First_comment
